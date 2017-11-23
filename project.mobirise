@@ -38,7 +38,7 @@
         "main": true,
         "title": "Iron Revolution",
         "meta_descr": "",
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-110034061-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-110034061-2');\n</script>\n\n",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-110034061-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-110034061-2');\n</script>\n\n<meta property=\"og:title\" content=\"Iron Revolution\"/>\n<meta property=\"og:image\" content=\"http://ironcoin.org/assets/images/iron-coin-logo-814x810.png\"/>\n<meta property=\"og:site_name\" content=\"Iron Revolution\"/>\n<meta property=\"og:description\" content=\"The Solution for a Truly Sustainable World\"/>",
         "footer_custom": "",
         "html_before": ""
       },
