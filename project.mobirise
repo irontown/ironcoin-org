@@ -105,7 +105,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures4-l\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"assets/files/iron-whitepaper.pdf\" target=\"_blank\">WHITE PAPER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader13-f\">GET IRON COIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures4-l\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"assets/files/Iron%20Whitepaper.pdf\" target=\"_blank\">WHITE PAPER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader13-f\">GET IRON COIN</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -548,7 +548,7 @@
             }
           },
           "title": "OUR TEAM",
-          "subtitle": "Meet the team that gives you Iron Coin",
+          "subtitle": "Meet the team behind Iron Revolution",
           "title1": "Aaron Krieshok",
           "subtitle1": "Founder &amp; Chief Visionary",
           "caption1": "Aaron has been working in technology and startups for over 2 decades and is the visionary behind Project Lumen and the Iron Revolution.",
@@ -982,7 +982,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures4-l\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"assets/files/iron-whitepaper.pdf\" target=\"_blank\">WHITE PAPER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader13-f\">GET IRON COIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures4-l\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"assets/files/Iron%20Whitepaper.pdf\" target=\"_blank\">WHITE PAPER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader13-f\">GET IRON COIN</a></li>",
           "logo": {
             "image": {
               "active": true,
