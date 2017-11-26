@@ -105,7 +105,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures4-l\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"assets/files/Iron%20Whitepaper.pdf\" target=\"_blank\">WHITE PAPER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader13-f\">GET IRON COIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures4-l\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"assets/files/Iron Whitepaper.pdf\" target=\"_blank\">WHITE PAPER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader13-f\">GET IRON COIN</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -184,9 +184,9 @@
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": "2",
             "columns": 3,
             "bgImageRadio": false,
@@ -254,10 +254,10 @@
           "caption1": "&nbsp;",
           "title2": "Open Source",
           "subtitle2": "Because Knowledge belongs to the public",
-          "caption2": "&nbsp;",
+          "caption2": "",
           "title3": "Sustainable<br>",
           "subtitle3": "All that we do should benefit all future generations",
-          "caption3": "&nbsp;",
+          "caption3": "All that we do should benefit future generations &nbsp;",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -342,7 +342,7 @@
             "inverse": false,
             "showArrow": false,
             "showFormTitle": true,
-            "countdown": "2017/11/26 12:00",
+            "countdown": "2017/11/28 12:00",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/block-1243x556.jpg",
             "parallax": true,
@@ -982,7 +982,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures4-l\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"assets/files/Iron%20Whitepaper.pdf\" target=\"_blank\">WHITE PAPER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader13-f\">GET IRON COIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures4-l\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"assets/files/Iron Whitepaper.pdf\" target=\"_blank\">WHITE PAPER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader13-f\">GET IRON COIN</a></li>",
           "logo": {
             "image": {
               "active": true,
