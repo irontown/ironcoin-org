@@ -342,7 +342,7 @@
             "inverse": false,
             "showArrow": false,
             "showFormTitle": true,
-            "countdown": "2017/11/28 12:00",
+            "countdown": "2017/11/28 14:00",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/block-1243x556.jpg",
             "parallax": true,
