@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Iron Coin",
-    "currentPage": "index.html",
+    "currentPage": "beta.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "4.3.5",
-    "uniqCompNum": 36,
+    "uniqCompNum": 58,
     "versionPublish": "4.3.5",
     "favicon": "",
     "noImageResize": "",
@@ -105,7 +105,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures4-l\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"assets/files/Iron Whitepaper.pdf\" target=\"_blank\">WHITE PAPER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader13-f\">GET IRON COIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures4-l\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://irontown.github.io/iron-wallet/media/files/iron-white-paper.pdf\" target=\"_blank\">WHITE PAPER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"beta.html#extHeader6-1j\">GET IRON COIN</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -360,7 +360,7 @@
           "title2": "Be in the Know",
           "text": "Iron Coin will be available soon",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Join</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Signup</a>",
           "form": {
             "action": "akrieshok@gmail.com",
             "alerts": {
@@ -425,7 +425,7 @@
           },
           "mainTitle": "ROADMAP",
           "mainSubtitle": "A project is a vision painted on the canvas of time",
-          "title1": "1. Pre-ICO Launch",
+          "title1": "1. Alpha Wallet Release",
           "title2": "2. Beta Wallet",
           "title3": "3. Iron Framework",
           "title4": "4. Design out of the box",
@@ -437,9 +437,9 @@
           "title10": "10. Awesome Reports",
           "title11": "11. Design out of the box",
           "title12": "12. Awesome Reports",
-          "date1": "26 November 2017",
-          "date2": "1 January 2018",
-          "date3": "3 March 2018",
+          "date1": "28 November 2017",
+          "date2": "January 2018",
+          "date3": "April 2018",
           "date4": "4 April 2016",
           "date5": "5 May 2016",
           "date6": "6 June 2016",
@@ -449,7 +449,7 @@
           "date10": "10 October 2016",
           "date11": "11 November 2016",
           "date12": "12 December 2016",
-          "text1": "Intitial offering through the Project Lumen platform",
+          "text1": "Intitial offering of Iron Coin through the alpha wallet",
           "text2": "First beta release of a dedicated wallet to hold your Iron Coin as well as most alt-coins. The Iron Wallet will enable you to exchange a multitude of assets and interface with various options for trading &amp; investing.",
           "text3": "Iron Framework will be the all-in-one solution for anyone to be able to produce their own decentralized applications.",
           "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
@@ -910,11 +910,11 @@
         }
       ]
     },
-    "page1.html": {
+    "beta.html": {
       "settings": {
-        "title": "Page 1",
+        "title": "Iron Launch",
         "meta_descr": "",
-        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-110034061-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-110034061-2');\n</script>\n<meta property=\"og:title\" content=\"Iron Revolution\"/>\n<meta property=\"og:image\" content=\"http://ironcoin.org/assets/images/iron-coin-logo-814x810.png\"/>\n<meta property=\"og:site_name\" content=\"Iron Revolution\"/>\n<meta property=\"og:description\" content=\"The Solution for a Truly Sustainable World\"/>\n",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-110034061-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-110034061-2');\n</script>\n\n<meta property=\"og:title\" content=\"Iron Revolution\"/>\n<meta property=\"og:image\" content=\"http://ironcoin.org/assets/images/iron-coin-logo-814x810.png\"/>\n<meta property=\"og:site_name\" content=\"Iron Revolution\"/>\n<meta property=\"og:description\" content=\"The Solution for a Truly Sustainable World\"/>",
         "footer_custom": "",
         "html_before": "",
         "order": 1
@@ -982,7 +982,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures4-l\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"assets/files/Iron Whitepaper.pdf\" target=\"_blank\">WHITE PAPER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#extHeader13-f\">GET IRON COIN</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures4-l\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://irontown.github.io/iron-wallet/media/files/iron-white-paper.pdf\" target=\"_blank\">WHITE PAPER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"beta.html#extHeader6-1j\">GET IRON COIN</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -990,8 +990,7 @@
               "height": 128,
               "alt": "Iron Coin",
               "link": "#top",
-              "title": "Iron Coin",
-              "linkInNewWindow": false
+              "title": "Iron Coin"
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1004,7 +1003,7 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-r"
+          "_anchor": "menu-1a"
         },
         {
           "_params": {
@@ -1055,17 +1054,17 @@
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-s"
+          "_anchor": "header2-1b"
         },
         {
           "_params": {
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
-            "ShowTexts": true,
+            "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "columns": 3,
             "bgImageRadio": false,
             "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
@@ -1129,13 +1128,13 @@
           },
           "title1": "Decentralized",
           "subtitle1": "Only through teamwork shall we succeed",
-          "caption1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&nbsp;",
+          "caption1": "&nbsp;",
           "title2": "Open Source",
           "subtitle2": "Because Knowledge belongs to the public",
-          "caption2": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+          "caption2": "",
           "title3": "Sustainable<br>",
           "subtitle3": "All that we do should benefit all future generations",
-          "caption3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+          "caption3": "All that we do should benefit future generations &nbsp;",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
@@ -1156,7 +1155,7 @@
               "border-color": "undefined !important"
             }
           },
-          "_anchor": "extFeatures4-t"
+          "_anchor": "extFeatures4-1c"
         },
         {
           "_inherit": "msg-box5",
@@ -1211,16 +1210,14 @@
           ],
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box6",
-          "_anchor": "msg-box6-u"
+          "_anchor": "msg-box6-1d"
         },
         {
           "_params": {
             "showTitle": true,
             "showText": true,
-            "inverse": false,
-            "showArrow": false,
-            "showFormTitle": true,
-            "countdown": "2017/11/26 12:00",
+            "showButtons": true,
+            "imageSize": "72",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/block-1243x556.jpg",
             "parallax": true,
@@ -1231,54 +1228,97 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlayColor": "#fff",
+            "overlayOpacity": "0.7"
           },
-          "title": "Join the Revolution",
-          "title2": "Be in the Know",
-          "text": "Iron Coin will be available soon",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">SUBSCRIBE NOW</a>",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Join</a>",
-          "form": {
-            "action": "akrieshok@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1643x1080.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
             },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone*"
-              },
-              "message": {
-                "visible": false,
-                "title": "Message",
-                "customTitle": "Message"
-              }
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
             }
           },
+          "title": "GET IRON COIN",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "text2": "<label class=\"blackColor\" for=\"modal\">Watch Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "DualButtons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" href=\"https://github.com/irontown/iron-wallet/releases/download/v0.0.3/iron-wallet.zip\">DOWNLOAD WALLET</a> <a data-app-btn=\"true\" class=\"btn btn-info\" data-toolbar=\"-mbrBtnMove\" href=\"http://ironwallet.org\" target=\"_blank\">ONLINE WALLET</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
           ],
-          "_name": "extHeader13",
-          "_styles": {
-            "H4": {
-              "text-align": "center",
-              "font-size": "36px"
-            }
+          "_name": "extHeader6",
+          "_anchor": "extHeader6-1j"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<a id=\"contribute\" class=\"in-page-link\"></a>\n<section>\n    <div class=\"container\">\n      <div class=\"row\">\n        <div class=\"col-sm-10 col-sm-offset-1 text-center\">\n          <h4>Contribute to Flat Empire</h4>\n          <div class=\"tabs-container tabs-4\">\n            <ul class=\"tabs\">\n              <li>\n                <div class=\"tab__title btn\">\n                  <span class=\"btn__text\">Crypto</span>\n                </div>\n                <div class=\"tab__content\">\n                  <div class=\"row\">\n                    <table class=\"col-sm-5 col-sm-offset-3\">\n                      <tbody>\n                        <tr>\n                          <td style=\"font-weight: bold\" class=\"text-right\">Bitcoin:</td>\n                          <td>&nbsp;</td>\n                          <td class=\"text-left\">19pDEmoccWzYJ8xptv71NBmJ96b56zcrau</td>\n                        </tr>\n                        <tr>\n                          <td style=\"font-weight: bold\" class=\"text-right\">Ether:</td>\n                          <td>&nbsp;</td>\n                          <td class=\"text-left\">0x19b244fdac6FeFe9462A3Ab982b525A08B02AC43</td>\n                        </tr>\n                        <tr>\n                          <td style=\"font-weight: bold\" class=\"text-right\">Litecoin:</td>\n                          <td>&nbsp;</td>\n                          <td class=\"text-left\">LgwAVqUezRZS51DFPZJSkZSpYbdwEQNWsC</td>\n                        </tr>\n                        <tr>\n                          <td style=\"font-weight: bold\" class=\"text-right\">Waves:</td>\n                          <td>&nbsp;</td>\n                          <td class=\"text-left\">3P763YSRiYre3uLd5WZ8zi2V4UfxrpxH3rM</td>\n                        </tr>\n                        <tr>\n                          <td style=\"font-weight: bold\" class=\"text-right\">ZCash:</td>\n                          <td>&nbsp;</td>\n                          <td class=\"text-left\">t1P6Z8Pmohkr2zCixaXHGkWjN47ocr9o4Zy</td>\n                        </tr>\n                        <tr>\n                          <td style=\"font-weight: bold\" class=\"text-right\">Lisk:</td>\n                          <td>&nbsp;</td>\n                          <td class=\"text-left\">8401802434539242406L</td>\n                        </tr>\n                      </tbody>\n                    </table>\n                  </div>\n                </div>\n              </li>\n              <li class=\"active\">\n                <div class=\"tab__title btn\">\n                  <span class=\"btn__text\">Paypal</span>\n                </div>\n                <div class=\"tab__content\">\n                  <form action=\"https://www.paypal.com/cgi-bin/webscr\" method=\"post\">\n                    <input type=\"hidden\" name=\"cmd\" value=\"_xclick\">\n                    <input type=\"hidden\" name=\"business\" value=\"projectlumen@gmail.com\">\n                    <input type=\"hidden\" name=\"item_name\" value=\"Contribution\">\n\n                    <input type=\"hidden\" name=\"shipping\" value=\"0\">\n                    <input type=\"hidden\" name=\"buyer_credit_promo_code\" value=\"\">\n                    <input type=\"hidden\" name=\"buyer_credit_product_category\" value=\"\">\n                    <input type=\"hidden\" name=\"buyer_credit_shipping_method\" value=\"\">\n                    <input type=\"hidden\" name=\"buyer_credit_user_address_change\" value=\"\">\n                    <input type=\"hidden\" name=\"no_shipping\" value=\"0\">\n                    <input type=\"hidden\" name=\"no_note\" value=\"1\">\n                    <input type=\"hidden\" name=\"currency_code\" value=\"USD\">\n                    <input type=\"hidden\" name=\"tax\" value=\"0.00\">\n                    <input type=\"hidden\" name=\"lc\" value=\"US\">\n                    <input type=\"hidden\" name=\"bn\" value=\"PP-BuyNowBF\">\n\n                    <div class=\"row\">\n                      <div class=\"col-sm-6 col-sm-offset-3\">\n                        <div class=\"input-with-icon\">\n                          <!-- <label for=\"amount\">Amount:</label> -->\n                          <i class=\"icon icon-Dollar-Sign\"></i>\n                          <input type=\"text\" id=\"amount\" name=\"amount\" placeholder=\"Contribution Amount\" value=\"\">\n                        </div>\n                      </div>\n                    </div>\n                    <br>\n                    <div class=\"row\">\n                      <div class=\"col-sm-4 col-sm-offset-4\">\n                          <button class=\"btn btn--primary\" type=\"submit\">Contribute</button>\n                      </div>\n                    </div>\n                  </form>\n                </div>\n              </li>\n            </ul>\n          </div>\n        </div>\n      </div>\n    </div>\n    </section>\n  ",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-1k",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSearch": false,
+            "rowСount": "6",
+            "colCount": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/sky.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.4
           },
-          "_anchor": "extHeader13-v"
+          "title": "Pay with Crypto",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>Crypto</th><th>Wallet Address</th></tr></thead><tbody><tr><td>Bitcoin</td><td>19pDEmoccWzYJ8xptv71NBmJ96b56zcrau</td></tr><tr><td>Ethereum</td><td>0x19b244fdac6FeFe9462A3Ab982b525A08B02AC43</td></tr><tr><td>Leon Rogol</td><td>66</td></tr><tr><td>Shala Barrera</td><td>70</td></tr><tr><td>Shala Barrera</td><td>70</td></tr><tr><td>Shala Barrera</td><td>70</td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_anchor": "extTable1-1l",
+          "_customHTML": "<section class=\"mbr-section extTable1\" data-rv-view=\"131\" style=\"background-color: rgb(255, 255, 255); padding-top: 120px; padding-bottom: 120px;\">\n\n    \n\n    <div class=\"container\">\n        <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"44\">Pay with Crypto</h3>\n    </div>\n\n    <div class=\"container table-wrapper\" info3-text=\"(filtered from\" data-search=\"false\" search-text=\"Search:\" info1-text=\"Showing\" info2-text=\"entries\" info4-text=\"total entries)\">\n        \n        <table class=\"table mbr-editable-content\" cellspacing=\"0\" width=\"100%\" code-editable-id=\"45\"><thead><tr><th>Crypto</th><th>Wallet Address</th></tr></thead><tbody><tr><td>Bitcoin</td><td>19pDEmoccWzYJ8xptv71NBmJ96b56zcrau</td></tr><tr><td>Ethereum</td><td>0x19b244fdac6FeFe9462A3Ab982b525A08B02AC43</td></tr><tr><td>Leon Rogol</td><td>66</td></tr><tr><td>Shala Barrera</td><td>70</td></tr><tr><td>Shala Barrera</td><td>70</td></tr><tr><td>Shala Barrera</td><td>70</td></tr></tbody></table>\n        \n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_params": {
@@ -1303,7 +1343,7 @@
           },
           "mainTitle": "ROADMAP",
           "mainSubtitle": "A project is a vision painted on the canvas of time",
-          "title1": "1. Pre-ICO Launch",
+          "title1": "1. Alpha Wallet Release",
           "title2": "2. Beta Wallet",
           "title3": "3. Iron Framework",
           "title4": "4. Design out of the box",
@@ -1315,9 +1355,9 @@
           "title10": "10. Awesome Reports",
           "title11": "11. Design out of the box",
           "title12": "12. Awesome Reports",
-          "date1": "26 November 2017",
-          "date2": "1 January 2018",
-          "date3": "3 March 2018",
+          "date1": "28 November 2017",
+          "date2": "January 2018",
+          "date3": "April 2018",
           "date4": "4 April 2016",
           "date5": "5 May 2016",
           "date6": "6 June 2016",
@@ -1327,7 +1367,7 @@
           "date10": "10 October 2016",
           "date11": "11 November 2016",
           "date12": "12 December 2016",
-          "text1": "Intitial offering through the Project Lumen platform",
+          "text1": "Intitial offering of Iron Coin through the alpha wallet",
           "text2": "First beta release of a dedicated wallet to hold your Iron Coin as well as most alt-coins. The Iron Wallet will enable you to exchange a multitude of assets and interface with various options for trading &amp; investing.",
           "text3": "Iron Framework will be the all-in-one solution for anyone to be able to produce their own decentralized applications.",
           "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
@@ -1344,7 +1384,7 @@
             "Extension"
           ],
           "_name": "extFeatures11",
-          "_anchor": "extFeatures11-w"
+          "_anchor": "extFeatures11-1f"
         },
         {
           "_params": {
@@ -1426,7 +1466,7 @@
             }
           },
           "title": "OUR TEAM",
-          "subtitle": "Meet the team that gives you Iron Coin",
+          "subtitle": "Meet the team behind Iron Revolution",
           "title1": "Aaron Krieshok",
           "subtitle1": "Founder &amp; Chief Visionary",
           "caption1": "Aaron has been working in technology and startups for over 2 decades and is the visionary behind Project Lumen and the Iron Revolution.",
@@ -1716,7 +1756,7 @@
             "Extension"
           ],
           "_name": "extFeatures9",
-          "_anchor": "extFeatures9-x"
+          "_anchor": "extFeatures9-1g"
         },
         {
           "_styles": {
@@ -1742,7 +1782,7 @@
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-y"
+          "_anchor": "social-buttons2-1h"
         },
         {
           "_params": {
@@ -1784,7 +1824,7 @@
               "color": "#707070"
             }
           },
-          "_anchor": "contacts1-z"
+          "_anchor": "contacts1-1i"
         }
       ]
     }
