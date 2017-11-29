@@ -14,16 +14,15 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" href="assets/images/iron-coin-logo-128x128.png" type="image/x-icon">
-    <meta name="description" content="The Solution for a Truly Sustainable World">
+    <meta name="description" content="">
 
     <meta property="og:title" content="Iron Revolution"/>
     <meta property="og:image" content="http://ironcoin.org/assets/images/iron-coin-logo-814x810.png"/>
     <meta property="og:site_name" content="Iron Revolution"/>
     <meta property="og:description" content="The Solution for a Truly Sustainable World"/>
-
+    
+    <link rel="shortcut icon" href="assets/images/iron-coin-logo-128x128.png" type="image/x-icon">
     <title>Iron Revolution</title>
-
     <link rel="stylesheet" href="assets/icon54-v4/style.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
@@ -69,7 +68,7 @@
         </div>
       </nav>
     </section>
-    <section class="engine"><a href="https://mobirise.co/k">free bootstrap template</a></section>
+    <section class="engine"><a href="https://mobirise.co">Mobirise</a></section>
     <section class="mbr-section mbr-section-hero mbr-section-full header2 mbr-parallax-background mbr-after-navbar" id="header2-22" data-rv-view="103" style="background-image: url(assets/images/mbr-1617x1080.jpg);">
       <div class="mbr-overlay" style="opacity: 0.3; background-color: rgb(0, 0, 0);">
       </div>
@@ -201,7 +200,7 @@
       <div class="mbr-section mbr-section-nopadding">
         <div class="container">
           <div class="row">
-            <div class="col-xs-12 col-lg-10 col-lg-offset-1">
+            <div class="col-xs-12 col-lg-10 col-lg-offset-1" data-form-type="formoid">
               <div data-form-alert="true">
                 <div hidden="" data-form-alert-success="true">Thanks for filling out form!</div>
               </div>
@@ -223,8 +222,11 @@
                 <input type="hidden" name="bn" value="PP-BuyNowBF">
 
                 <div class="mbr-subscribe mbr-subscribe-dark input-group">
-                  <input type="text" class="form-control" name="amount" required="" placeholder="Contribution Amount" id="form2-26-email">
+                  <!-- <input type="email" class="form-control" name="email" required="" data-form-field="Email" placeholder="Contribution Amount" id="form2-26-email"> -->
+                  <input type="text" class="form-control" name="amount" required="" data-form-field="Email" placeholder="Contribution Amount" id="form2-26-email">
                   <span class="input-group-btn"><button type="submit" class="btn btn-primary">PAY NOW</button></span>
+                  <!-- <button class="btn btn--primary" type="submit">Contribute</button> -->
+                  <!-- <input type="text" id="amount" name="amount" placeholder="Contribution Amount" value=""/> -->
                 </div>
               </form>
             </div>
@@ -238,12 +240,14 @@
       </div>
       <div class="container table-wrapper" info3-text="(filtered from" data-search="false" search-text="Search:" info1-text="Showing" info2-text="entries" info4-text="total entries)">
         <table class="table" cellspacing="0" width="100%">
-          <thead style="display: none;">
+          <!--
+          <thead>
             <tr>
               <th>Crypto</th>
               <th>Address</th>
             </tr>
           </thead>
+          -->
           <tbody>
             <tr>
               <td>Bitcoin</td>
@@ -279,8 +283,56 @@
               <div data-form-alert="true">
                 <div hidden="" data-form-alert-success="true" class="alert alert-form alert-success text-xs-center">Thank you for your submission, we will issue your Iron Coin shortly</div>
               </div>
+              <!--
+              <form action="https://sharperstone.createsend.com/t/j/s/vkttrj/" method="post" id="subForm">
+                <p>
+                  <label for="fieldName">Name</label><br />
+                  <input id="fieldName" name="cm-name" type="text" />
+                </p>
+                <p>
+                  <label for="fieldEmail">Email</label><br />
+                  <input id="fieldEmail" name="cm-vkttrj-vkttrj" type="email" required />
+                </p>
+                <p>
+                  <label for="fieldjrmhyj">Phone</label><br />
+                  <input id="fieldjrmhyj" name="cm-f-jrmhyj" type="text" />
+                </p>
+                <p>
+                  <label for="fieldjrmhyt">Contribution Amount</label><br />
+                  <input id="fieldjrmhyt" name="cm-f-jrmhyt" type="text" />
+                </p>
+                <p>
+                  <label for="fieldjrmhyd">Payment Method</label><br />
+                  <select id="fieldjrmhyd" name="cm-fo-jrmhyd">
+                    <option value=""></option>
+                    <option value="2602419">Paypal</option>
+                    <option value="2602420">Bitcoin</option>
+                    <option value="2602421">Ether</option>
+                    <option value="2602422">Litecoin</option>
+                    <option value="2602423">Waves</option>
+                    <option value="2602424">ZCash</option>
+                    <option value="2602425">Lisk</option>
+                  </select>
+                </p>
+                <p>
+                  <label for="fieldjrmhyh">Iron Wallet Address</label><br />
+                  <input id="fieldjrmhyh" name="cm-f-jrmhyh" type="text" />
+                </p>
+                <p>
+                  <label for="fieldjrmhyk">Message</label><br />
+                  <input id="fieldjrmhyk" name="cm-f-jrmhyk" type="text" />
+                </p>
+                <p>
+                  <label for="fieldjrmklr">How did you find us?</label><br />
+                  <input id="fieldjrmklr" name="cm-f-jrmklr" type="text" />
+                </p>
+                <p>
+                  <button type="submit">Subscribe</button>
+                </p>
+              </form>
+              
               <form action="https://mobirise.com/" method="post" data-form-title="ISSUING FORM">
-                <input type="hidden" value="275t2PbFibL0Gqk8u+n7/w+JrC68QySqb+jie19y/lWWHWWh5oLyhuwHqNfmm1SAI008i4ucjDu/RCBV9avaghEkG3mMdoPsP52mAk19bKq73c4VZajbfuP1ogXcjNtf" data-form-email="true">
+                <input type="hidden" value="NtnOy1qNsmnbVL5T0BGI1sMXG1XpN+gBdXZkDCARywxhprc5DIY42hSBg5OlEiAY6CFowoggsjhwCdRGQ67KUwSkbIp2ddrXG2hFV+BZKThy5mfnL0AIGVNGpruEd/k2" data-form-email="true">
                 <div class="row row-sm-offset">
                   <div class="col-xs-12 col-md-4">
                     <div class="form-group">
@@ -307,6 +359,7 @@
                 </div>
                 <div><button type="submit" class="btn btn-primary">SUBMIT</button></div>
               </form>
+              -->
             </div>
           </div>
         </div>
@@ -427,7 +480,6 @@
         </div>
       </div>
     </section>
-    
     <script src="assets/web/assets/jquery/jquery.min.js"></script>
     <script src="assets/tether/tether.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
