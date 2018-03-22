@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  client:
+    build: .
+    ports:
+      - "${CLIENT_PORT:-80}:3000"
+    command: npm start
+    networks:
+      - frontend
+
+networks:
+  frontend:
